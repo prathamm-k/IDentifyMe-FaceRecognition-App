@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pyyaml
+dlib
+pillow
+streamlit
+cmake
+face_recognition @ git+https://github.com/thetoby9944/face_recognition
